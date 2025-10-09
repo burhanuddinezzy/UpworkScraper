@@ -7,6 +7,8 @@ Upwork Scraper is designed to automate the process of scraping job postings from
 
 The script provides a streamlined solution for users who want to efficiently search for new job opportunities on Upwork without the hassle of manually browsing through job listings.
 
+UPDATE: In case you are wondering, UpworkScraper still works as of October 2025.
+
 ---
 ## Benefits
 
